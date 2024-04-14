@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+h1{
+    color: beige;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+
+.meme1{
+    color: beige;
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 80px;
+    text-align: center;
+}
+.img1{
+    border: 5px solid beige;
+    width: 70%;
+}
+
+.meme2{
+    color: beige;
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 80px;
+    text-align: center;
+}
+.img2{
+    border: 5px solid beige;
+    width: 60%;
+}
