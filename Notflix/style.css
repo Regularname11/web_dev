@@ -1,0 +1,210 @@
+/* * {
+    margin: 0;
+    padding: 0;
+}*/
+
+
+body {
+    background-image: url('./notf.jpeg');
+    font-family:Arial, Helvetica, sans-serif;
+    height: 95vh;
+    
+}
+.header {
+    width: 100%;
+}
+
+.header img {
+    width: 200px;
+    margin-left: 50px;
+    margin-top: 20px;
+    border: 5px solid black;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.registerBlock {
+    color: white;
+    width: 450px;
+    height: 550px;
+    background-color: rgba(0, 0, 0, 0.700);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 1rem;
+}
+
+.paddingBlock {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    width: 70%;
+    height: 100%;
+}
+
+.input {
+    display: flex;
+    flex-direction: column;
+}
+
+.inputs input {
+    background-color: #454545;
+    border: none;
+    padding: 1rem;
+    margin: 5px;
+    border-radius: 5px;
+    width: 300px;
+    color: white;
+    font-size: large;
+}
+
+::placeholder {
+    color: rgba(255, 255, 255, 0.63);
+    font-size: medium;
+}
+
+.divbutton * {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    height: 90px;
+    border: none;
+}
+
+.button .buttonRed{
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: red;
+    font-weight: bold;
+    font-size: medium;
+} 
+
+.button .buttonRed:hover {
+    background-color: rgba(255, 0, 0, 0.705);
+}
+
+.button .button{
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgba(128, 128, 128, 0.945);
+    font-weight: bold;
+    font-size: medium;
+}
+
+.button .button:hover {
+    background-color: rgba(128, 128, 128, 0.30);
+}
+ span {
+    padding: 10px;
+}
+
+.forgotPassword a {
+    position: relative;
+    text-decoration: none;  
+    color: white;
+    top: 10px;
+}
+
+a:hover {
+    text-decoration: none;  
+    color: #918f8f;  
+    text-decoration: underline;
+}
+
+.checkbox {
+    position: relative;
+    right: 100px;
+    color: rgb(255, 255, 255);
+}
+.newsignup {
+    position: relative;
+    align-items: start;
+    right: 60px;
+}
+.new {
+    color: rgba(128, 128, 128, 0.726);
+    padding: 0;
+}
+.signup{
+    font-weight: bold;
+    padding: 0;
+}
+.signup:hover {
+    color: #454545;
+    text-decoration: underline;
+
+}
+ footer {
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: space-around;
+    background-color: rgba(0, 0, 0, 0.700);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 20%;
+}
+
+.footer a {
+    color: #918f8f;
+    text-decoration:none ;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
+.block{
+    color:#918f8f;
+    display: flex;
+}
+
+.block:hover {
+    text-decoration: underline;
+}
+.block1 {
+    display: flex;
+    justify-content: space-around;
+    color: aliceblue;
+    gap: 30px;
+    text-decoration: none;  
+    color: white;
+}
+
+.block2 {
+    display: flex;
+    justify-content: space-around;
+    color: aliceblue;
+    gap: 30px;
+    text-decoration: none;  
+    color: white;
+}
+
+
+@media (max-width: 680px) {
+    .header img {
+      width: 95px;
+      margin: 0 ;
+      position: relative;
+      left:145px;
+    }
+
+    .footer {
+        display: flex;
+        flex-direction: column;
+        align-items:center;
+        justify-content: space-around;
+        left: 5px;
+        width: 100%;
+    }
+  }
