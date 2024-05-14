@@ -1,0 +1,66 @@
+.footer , .gradient-background {
+  background: linear-gradient(300deg, #1b7505, #6d4cff, #eee23d);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+
+#partnerSpan {
+  font-weight: bolder;
+  color: pink;
+}
+
+#figCaption {
+  font-weight: lighter; 
+}
+
+#gta_couple {
+  border-radius: 20px;
+}
+
+#box1 {
+  background-color: #1b7505 !important;
+
+}
+
+#box2 {
+  background-color: #6d4cff !important;
+
+}
+#box3 {
+  background-color: #eee23d !important;
+
+}
+
+.iconCalendar , .pinIcon {
+  margin-right: 0.5rem;
+}
+
+#footerCont * {
+  color: white !important;
+}
+
+.icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+}
+
+.profile-img {
+  height: 100px;
+  border-radius: 50%;
+}
