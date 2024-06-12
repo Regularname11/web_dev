@@ -1,6 +1,8 @@
 # Web dev
 ## a web devolopment repo where I store most of my web dev projects and progress.. 
 ### also serves as a documentation :)
+br
+## You can also find them here 👇
 ### [Html Resume](https://github.com/Regularname11/html_resume)
 ### [Burger Shot](https://github.com/Regularname11/Burger_Shot)
 ### [Visit Morocco](https://github.com/Regularname11/Visit_morocco)
