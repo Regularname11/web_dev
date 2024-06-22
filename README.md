@@ -1,5 +1,5 @@
 # Web dev
-## a web devolopment repo where I store most of my web dev projects and progress.. 
+## A web devolopment repo where I store most of my web dev projects and progress.. 
 ### also serves as a documentation :)
 ---
 ## You can also find them in separate repos here 👇🙂
@@ -12,4 +12,5 @@
 ### [Logins](https://github.com/Regularname11/logins)
 ### [GrooveStreet dating site](https://github.com/Regularname11/GrooveStreet_datingSite)
 ### [Election Machine](https://github.com/Regularname11/Eelection_machine-project)
+### [Phantom reviews](https://github.com/Regularname11/Phantom_reviews)
 
