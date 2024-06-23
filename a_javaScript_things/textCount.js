@@ -1,4 +1,5 @@
 // Text counter with a limit of 150 characters.
+
 var text = prompt("Hi, enter your text here: 👇");
 
 if (text.length > 150) {
