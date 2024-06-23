@@ -1,4 +1,5 @@
 // Your cat age according to human age.
+
 function catAge (humanAge){
     var catAge = 0;
     prompt ("Enter your cqt age:")
