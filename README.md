@@ -14,3 +14,6 @@
 ### [Election Machine](https://github.com/Regularname11/Eelection_machine-project)
 ### [Phantom reviews](https://github.com/Regularname11/Phantom_reviews)
 
+---
+### [JavaScript things](https://github.com/Regularname11/web_dev/tree/main/a_javaScript_things)
+
