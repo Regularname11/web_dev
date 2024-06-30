@@ -4,6 +4,9 @@
 ---
 ## You can also find them in separate repos here 👇🙂
 ### [Html Resume](https://github.com/Regularname11/html_resume)
+### [Glassmorphism](https://github.com/Regularname11/web_dev/tree/main/Glassmorphism)
+### [Meme page](https://github.com/Regularname11/web_dev/tree/main/Memes_page)
+### [Flag project](https://github.com/Regularname11/web_dev/tree/main/Flag_Project)
 ### [Burger Shot](https://github.com/Regularname11/Burger_Shot)
 ### [Visit Morocco](https://github.com/Regularname11/Visit_morocco)
 ### [Visit Morocco v2](https://github.com/Regularname11/visit_moroco_v2)
