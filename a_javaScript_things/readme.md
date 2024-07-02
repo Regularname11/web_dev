@@ -11,6 +11,7 @@
 ### Cat age
 ![image](https://github.com/Regularname11/web_dev/assets/78084972/0198cb11-e7f1-47bc-b827-9db8141d26b9)
 ![image](https://github.com/Regularname11/web_dev/assets/78084972/2377a530-14c8-48fe-9f7c-d7ea9ddb21d8)
+![image](https://github.com/Regularname11/web_dev/assets/78084972/7a1fc8d9-bdb2-45b1-938c-3910d6e2e441)
 ![image](https://github.com/Regularname11/web_dev/assets/78084972/a08ae167-b900-4b96-9cb8-13b2a2b29f8f)
 ### Dog age
 ![image](https://github.com/Regularname11/web_dev/assets/78084972/60b311e6-cad7-4984-b6ca-9c408b6c8bc8)
